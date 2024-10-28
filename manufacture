@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<h1>
+    <center>
+<P style = "color:rgb(150, 0, 0)";>MANUFACTURE SNUFF</P>
+<p style = "font-size:50px;"></p>
+    </center>
+</h1>
+<h1>
+<p style = "color:rgb(255, 255, 255)";>SELECT SECTION</p>
+
+</h1>
+  <p style = "color:rgb(255, 255, 255)";sections </p>
+  <label for="cars">section:</label>
+  <select name="cars" id="cars">
+    <option value="gore">gore</option>ù
+    <a href="        </a>
+    <option value="hentai gore">hentai gore</option>
+    <option value="porn gore">porn gore</option>
+    <option value="gore art">gore art</option>
+  </select>
+  <br><br>
+  <input type="search" value="search">
+</form>
+</style>
+</head>
+</body>
+</html>
+
+<head>
+<style>
+body {
+     background-image: url(manufacture.jpg);
+background-color: black;
+background-repeat: no-repeat;
+background-size: 100;
+background-position: center;
+background-attachment: fixed;
+}
+
+    
